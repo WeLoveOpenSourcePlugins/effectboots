@@ -20,6 +20,7 @@ import de.cerus.wlosp.effectboots.task.ParticleTask;
 public class EffectBootsPlugin extends JavaPlugin {
 
     private Set<EffectBoot> unregisteredBoots = new HashSet<>();
+
     private EffectBootsRegistry bootRegistry;
     private EffectBootsController bootsController;
     private ParticleTask particleTask;
