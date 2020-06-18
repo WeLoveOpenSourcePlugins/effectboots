@@ -9,7 +9,7 @@ You can add your own effect boots using the api. To add an effect boot simply cr
 ```java
 public class MyBoots extends EffectBoot {
 
-    public EmeraldBoots() {
+    public MyBoots() {
         super("my-boots");
     }
 
