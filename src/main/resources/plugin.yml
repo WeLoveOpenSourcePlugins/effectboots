@@ -1,0 +1,8 @@
+name: EffectBoots
+author: Cerus
+version: 0.1.0
+main: de.cerus.wlosp.effectboots.EffectBootsPlugin
+
+commands:
+  effectboots:
+    aliases: [boots]
